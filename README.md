@@ -1,4 +1,5 @@
 写在最前面，此为fork原作者的版本。以下内容为原作者编写。20210128
+源码地址 https://github.com/i5g5vip/winXray-v3.6 
 
 [winXray 入门小技巧](./sub/introduce.md)   
 [winXray 相关视频列表](https://www.youtube.com/results?search_query=winXray)  
